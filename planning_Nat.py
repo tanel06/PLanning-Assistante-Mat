@@ -100,3 +100,9 @@ Semaine_23_07 = {'Lundi' : ["10h - 18h", ("So", "Tan")],
                  
 Semaine_30_07-27_08 = "Congé AssMat"
 
+
+Semaine_03_09 = {'Lundi' : ["10h - 17h30", ("So", "Tan")],
+            'Mardi' : ["10h - 17h30", ("Tan", "Tan")],
+            'Mercredi' : ["10h - 17h30", ("Tan", "So")],
+            'Jeudi' : ["10h - 17h30", ("Tan", "Tan")],
+            'Vendredi' : "Tsy mandeha"}
