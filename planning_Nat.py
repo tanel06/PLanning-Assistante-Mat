@@ -128,3 +128,10 @@ Semaine_24_09 = {'Lundi' : ["11h - 17h", ("Tan", "Tan")],
 
 Semaine_01_10_15_10 = "Congé Nathan"
 
+
+Semaine_22_10 = {'Lundi' : ["11h - 17h", ("So", "Tan")],
+            'Mardi' : ["10h - 17h", ("Tan", "Tan")],
+            'Mercredi' :  ["10h - 17h", ("Tan", "Tan")],
+            'Jeudi' : ["10h - 17h", ("Tan", "So")],
+            'Vendredi' : ["13h - 16h", ("Tan", "Tan")], 
+                 'remarque' : 'Remplacement Filiz'}
