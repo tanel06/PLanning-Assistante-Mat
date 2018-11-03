@@ -135,3 +135,6 @@ Semaine_22_10 = {'Lundi' : ["11h - 17h", ("So", "Tan")],
             'Jeudi' : ["10h - 17h", ("Tan", "So")],
             'Vendredi' : ["13h - 16h", ("Tan", "Tan")], 
                  'remarque' : 'Remplacement Filiz'}
+
+Semaine_29_10 = " Absence Filiz : remplacer par papa"
+
