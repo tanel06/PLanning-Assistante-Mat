@@ -138,3 +138,11 @@ Semaine_22_10 = {'Lundi' : ["11h - 17h", ("So", "Tan")],
 
 Semaine_29_10 = " Absence Filiz : remplacer par papa"
 
+
+Semaine_05_11 = {'Lundi' : ["11h - 17h30", ("So", "Tan")],
+            'Mardi' : ["10h - 17h30", ("Tan", "So")],
+            'Mercredi' :  ["10h - 17h30", ("Tan", "Tan")],
+            'Jeudi' : "Tsy mandeha",
+            'Vendredi' : ["10h - 17h30", ("Tan", "Tan")], 
+                 'remarque' : ''}
+
