@@ -179,7 +179,12 @@ Semaine_17_12 = {'Lundi' : ["9h - 17h30", ("Ta", "So")],
             'Mardi' : ["9h - 17h30", ("So", "Ta")],
             'Mercredi' :  ["9h - 17h30", ("So", "Ta")],
             'Jeudi' : ["9h - 14h", ("So", "Ta")],
-            'Vendredi' : "Tsy mandeha"], 
+            'Vendredi' : "Tsy mandeha", 
                  'remarque' : ''}
 
-
+Semaine_24_12 = {'Lundi' : ["9h - 17h30", ("So", "Tan")],
+            'Mardi' : "Ferié",
+            'Mercredi' :  ["9h - 17h30", ("So", "Ta")],
+            'Jeudi' : "Tsy mandeha",
+            'Vendredi' : ["9h - 17h30", ("Ta", "so")],
+           'remarque' : ''}
