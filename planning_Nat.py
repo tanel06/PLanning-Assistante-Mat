@@ -198,3 +198,21 @@ Semaine_07_01_19 = {'Lundi' : ["9h - 16h00", ("Tan", "So")],
             'Jeudi' : ["8h - 17h00", ("Tan", "So")],
             'Vendredi' : ["9h - 18h", ("So", "Tan")],
            'remarque' : ''}
+
+Charge_pour_Impots = (348.42 + 349.77 + 438.52 + 436.77 + 436.77 + 436.77 + 294.4 + 447.47 + 442.14) - 294.73*9
+Montant_imposable_2018_Tan = 21811.14
+
+
+Semaine_14_01_19 = {'Lundi' : "Tsy mandeha",
+            'Mardi' : ["9h - 18h00", ("Tan", "So")],
+            'Mercredi' :["9h - 18h00", ("Tan", "So")],
+            'Jeudi' : ["8h - 18h00", ("Tan", "So")],
+            'Vendredi' : ["14h - 18h", ("So", "Tan")],
+           'remarque' : ''}
+
+Semaine_21_01_19 = {'Lundi' : "Tsy mandeha",
+            'Mardi' : ["9h - 17h00", ("Tan", "So")],
+            'Mercredi' :["9h - 18h00", ("Tan", "Tan")],
+            'Jeudi' : ["8h - 16h00", ("So", "So")],
+            'Vendredi' : ["9h - 18h", ("So", "Tan")],
+           'remarque' : ''}
