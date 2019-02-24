@@ -244,5 +244,12 @@ Semaine_18_02_19 = {'Lundi' : ["9h - 17h", ("Tan", "So")],
             'Mercredi' :["9h - 17", ("Tan", "So")],
             'Jeudi' : ["9h - 18h", ("So", "Tan")],
             'Vendredi' : "Tsy Mandeha",
+           'remarque' : 'Nathan present uniquement le jeudi car il a été malade'}
+
+Semaine_25_02_19 = {'Lundi' : ["9h30 - 17h", ("Tan", "So")],
+            'Mardi' : ["15h - 18h", ("Tan", "Tan")],
+            'Mercredi' :["9h - 16h", ("So", "Tan")],
+            'Jeudi' : ["8h - 17h30", ("So", "Tan")],
+            'Vendredi' : ["9h30 - 16h30", ("So", "Tan")],
            'remarque' : ''}
     
