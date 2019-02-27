@@ -252,4 +252,4 @@ Semaine_25_02_19 = {'Lundi' : ["9h30 - 17h", ("Tan", "So")],
             'Jeudi' : ["8h - 17h30", ("So", "Tan")],
             'Vendredi' : ["9h30 - 16h30", ("So", "Tan")],
            'remarque' : ''}
-    
+********************* test ********** 
