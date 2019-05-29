@@ -331,3 +331,10 @@ Semaine_13_05_19 = {'Lundi' : ["10h - 17h", ("Tan", "Tan")],
             'Jeudi' : ["10h - 16h", ("Tan", "Tan")],
             'Vendredi' :["10h - 17h", ("Tan", "Tan")],
             'remarque' : ''}
+
+Semaine_20_05_19 = {'Lundi' : ["Tsy mandeha"],
+            'Mardi' : ["Tsy mandeha"],
+            'Mercredi' : ["9h - 17h30", ("So", "Tan")],
+            'Jeudi' : ["9h - 17h30", ("So", "So")],
+            'Vendredi' :["9h - 17h30", ("So", "Tan")],
+            'remarque' : ''}
