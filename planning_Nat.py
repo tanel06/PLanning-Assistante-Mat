@@ -354,9 +354,16 @@ Semaine_03_06_19 = {'Lundi' : ["9h - 17h30", ("Tan", "So")],
             'remarque' : ''}
 
 
-Semaine_10_06_19 = {'Lundi' : ["Ferié"],
-            'Mardi' : ["9h - 17h", ("Tan", "So")],
-            'Mercredi' : ["9h - 17h30", ("Tan", "So")],
+Semaine_10_06_19 = {'Lundi' : ["9h30 - 17h", ("Tan", "So")],
+            'Mardi' : ["9h30 - 17h", ("Tan", "So")],
+            'Mercredi' : ["9h30 - 17h30", ("Tan", "So")],
             'Jeudi' : ["Tsy mandeha"],
             'Vendredi' :["9h - 17h30", ("Tan", "Tan")],
+            'remarque' : ''}
+
+Semaine_17_06_19 = {'Lundi' : ["9h30 - 17h30", ("Tan", "Tan")],
+            'Mardi' : ["9h30 - 17h30", ("Tan", "So")],
+            'Mercredi' : ["9h30 - 17h30", ("Tan", "Tan")],
+            'Jeudi' : ["Tsy mandeha"],
+            'Vendredi' : ["9h30 - 17h30", ("Tan", "Tan")],
             'remarque' : ''}
