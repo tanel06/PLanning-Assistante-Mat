@@ -367,3 +367,12 @@ Semaine_17_06_19 = {'Lundi' : ["9h30 - 17h30", ("Tan", "Tan")],
             'Jeudi' : ["Tsy mandeha"],
             'Vendredi' : ["9h30 - 17h30", ("Tan", "Tan")],
             'remarque' : ''}
+
+Semaine_24_06_19 = {'Lundi' : ["9h - 17h", ("Tan", "Tan")],
+            'Mardi' : ["9h - 17h", ("So", "So")],
+            'Mercredi' : ["Tsy mandeha"],
+            'Jeudi' : ["congé"],
+            'Vendredi' : ["congé"],
+            'remarque' : ''}
+
+semaine_01/07/19_au_01/08/19 = "CONGÉ"
