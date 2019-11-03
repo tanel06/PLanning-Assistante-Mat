@@ -474,4 +474,12 @@ Semaine_28_10_19 = {'Lundi' : ["Tsy mandeha"],
             'Mercredi' : ["8h30 - 17h", ("Tan", "So")]],
             'Jeudi' : ["8h30 - 18h", ("Tan", "So")],
             'Vendredi' :  ["ferié"],
-            'remarque' : ''}  
+            'remarque' : ''}
+            
+                        
+Semaine_04_11_19 = {'Lundi' : ["9h30 - 18h", ("So", "Tan")],
+            'Mardi' : ["8h30 - 16h", ("Tan", "So")],
+            'Mercredi' : ["9h - 18h", ("So", "Tan")]],
+            'Jeudi' : ["9h - 18h", ("So", "Tan")],
+            'Vendredi' : ["9h - 18h", ("So", "Tan")],
+            'remarque' : '9h supplementaire'}  
