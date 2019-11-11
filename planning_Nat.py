@@ -419,6 +419,7 @@ Semaine_02_09_19 = {'Lundi' : ["16h - 18h30", ("So", "So")],
             'Vendredi' : ["10h - 18h30", ("So", "Tan")],
             'remarque' : ''}
 
+
 Semaine_09_09_19 = {'Lundi' : ["Tsy mandeha"],
             'Mardi' : ["10h - 18h", ("So", "Tan")],
             'Mercredi' : ["10h - 18h", ("So", "Tan")],
@@ -462,6 +463,7 @@ Semaine_14_10_19 = {'Lundi' : ["8h30 - 17h30", ("So", "So")],
             'Vendredi' : ["8h30 - 17h30", ("So", "So")],
             'remarque' : '11h suplementaire'}
             
+            
 Semaine_21_10_19 = {'Lundi' : ["8h30 - 17h15", ("So", "So")],
             'Mardi' : ["8h30 - 17h15", ("So", "So")],
             'Mercredi' : ["8h30 - 17h15", ("So", "So")]],
@@ -469,17 +471,28 @@ Semaine_21_10_19 = {'Lundi' : ["8h30 - 17h15", ("So", "So")],
             'Vendredi' : ["Tsy mandeha"],
             'remarque' : '1h suplementaire'}
             
+            
 Semaine_28_10_19 = {'Lundi' : ["Tsy mandeha"],
             'Mardi' : ["8h30 - 17h", ("Tan", "So")],
             'Mercredi' : ["8h30 - 17h", ("Tan", "So")]],
             'Jeudi' : ["8h30 - 18h", ("Tan", "So")],
             'Vendredi' :  ["ferié"],
             'remarque' : ''}
-            
-                        
+           
+
 Semaine_04_11_19 = {'Lundi' : ["9h30 - 18h", ("So", "Tan")],
             'Mardi' : ["8h30 - 16h", ("Tan", "So")],
             'Mercredi' : ["9h - 18h", ("So", "Tan")]],
             'Jeudi' : ["9h - 18h", ("So", "Tan")],
             'Vendredi' : ["9h - 18h", ("So", "Tan")],
-            'remarque' : '9h supplementaire'}  
+            'remarque' : '9h supplementaire'}
+            
+ 
+
+Semaine_11_11_19 = {'Lundi' : ["ferié"],
+            'Mardi' : ["10h - 18h30", ("So", "Tan")],
+            'Mercredi' : ["10h - 18h", ("So", "Tan")]],
+            'Jeudi' : ["10h - 18h", ("So", "Tan")],
+            'Vendredi' : ["Tsy mandeha"],
+            'remarque' : ''}
+ 
