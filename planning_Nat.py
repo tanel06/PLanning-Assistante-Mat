@@ -527,6 +527,8 @@ Semaine_09_12_19 = {'Lundi' : ["9h - 17h", ("So", "So")],
 Semaine_16_12_19 = {'Lundi' : ["11h - 18h", ("So", "Tan")],
             'Mardi' : ["11h - 17h30", ("So", "Tan")],
             'Mercredi' : ["11h - 17h30", ("So", "Tan")],
-            'Jeudi' : ["11h - 17h", ("So", "So")"],
+            'Jeudi' : ["11h - 17h", ("So", "So")],
             'Vendredi' : ["Tsy mandeha"],
             'remarque' : ''}
+
+Semaine_23_12_19 = ["Congé Nathan"]
