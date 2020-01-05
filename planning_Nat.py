@@ -531,4 +531,13 @@ Semaine_16_12_19 = {'Lundi' : ["11h - 18h", ("So", "Tan")],
             'Vendredi' : ["Tsy mandeha"],
             'remarque' : ''}
 
-Semaine_23_12_19 = ["Congé Nathan"]
+
+
+qSemaine_23_12_19 = ["Congé Nathan"]
+
+Semaine_30_12_19 = {'Lundi' : ["10h - 17h", ("So", "Tan")],
+            'Mardi' : ["Tsy mandeha"],
+            'Mercredi' : ["tsy mandeha"],
+            'Jeudi' : ["10h - 17h", ("So", "So")],
+            'Vendredi' : ["Tsy mandeha"],
+            'remarque' : ''}
