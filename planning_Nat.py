@@ -548,3 +548,13 @@ Semaine_06_01_20 = {'Lundi' : ["9h30 - 17h", ("Tan", "So")],
             'Jeudi' : ["9h30 - 17h", ("Tan", "So")],
             'Vendredi' : ["9h30 - 17h", ("Tan", "So")],
             'remarque' : ''}
+
+Semaine_13_01_20 = {'Lundi' : ["11h30 - 17h", ("Tan", "Tan")],
+            'Mardi' : ["10h - 17h", ("Tan", "Tan")],
+            'Mercredi' : ["10h - 17h", ("Tan", "Tan")],
+            'Jeudi' : ["10h - 17h", ("Tan", "Tan")],
+            'Vendredi' : ["10h - 17h", ("Tan", "Tan")],
+            'remarque' : ''}
+
+
+
