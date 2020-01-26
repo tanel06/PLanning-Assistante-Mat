@@ -563,4 +563,16 @@ Semaine_20_01_20 = {'Lundi' : ["11h - 17h30", ("Tan", "Tan")],
             'Vendredi' : ["11h - 17h30", ("Tan", "Tan")],
             'remarque' : ''}
 
+Semaine_27_01_20 = {'Lundi' : ["10h30 - 17h30", ("Tan", "Tan")],
+            'Mardi' : ["11h - 17h30", ("Tan", "Tan")],
+            'Mercredi' : ["11h - 17h30", ("Tan", "Tan")],
+            'Jeudi' : ["Tsy mandeha"],
+            'Vendredi' : ["Tsy mandeha"],
+            'remarque' : 'Fin du contrat'}
 
+Fin_de_contrat = {'date' : '03-02-2020',
+                  'paie_janv' : 591.91,
+                  'paie_fev' : 916.84,
+                  'indemnite_rupture' : 89.80,
+                  'solde_conge_restant' : 566.62,
+                  'regula_salaire' : 191.74}
